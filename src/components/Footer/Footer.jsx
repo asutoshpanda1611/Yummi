@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam ducimus quidem modi quas et quibusdam corrupti consequuntur distinctio nesciunt delectus deserunt doloribus ad consequatur, in cum eveniet commodi! Iste laborum doloremque reiciendis vel laboriosam ut ipsa temporibus, quis neque nesciunt.</p>
+                <p>Yummi provides convenient ways to order food and groceries, browse menus with photos, receive cashback, and track orders in real-time.</p>
 
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
@@ -41,5 +41,6 @@ const Footer = () => {
     </div>
   )
 }
+
 
 export default Footer
